@@ -1,0 +1,62 @@
+{
+  "order_id": "PAZ-2024-123456",
+  "status": "delivered",
+  "created_at": "2026-03-01T14:30:00Z",
+  "total": 1299.00,
+  "currency": "TRY",
+
+  "cancellable": false,
+  "returnable": true,
+  "return_deadline": "2026-03-22",
+  "days_until_return_expires": 13,
+
+  "payment": {
+    "method": "credit_card",
+    "installments": 3,
+    "refund_status": null
+  },
+
+  "shipping": {
+    "carrier": "Yurtiçi Kargo",
+    "tracking_url": "https://kargotakip.yurtici.com.tr/PAZ-2024-123456",
+    "shipped_at": "2026-03-02T09:00:00Z",
+    "delivered_at": "2026-03-05T14:22:00Z",
+    "estimated_delivery": null,
+    "status": "delivered"
+  },
+
+  "invoice": {
+    "available": true,
+    "url": "https://pazarama.com/invoices/PAZ-2024-123456.pdf",
+    "type": "individual"
+  },
+
+  "items": [
+    {
+      "item_id": "item-001",
+      "product_name": "JBL Tune 520BT Kablosuz Kulaklık",
+      "quantity": 1,
+      "unit_price": 899.00,
+      "image_url": "https://img.pzrmcdn.com/mnresize/1180/1182/asset/6925281964732/images/jbltune520btkablosuzkulakstkulaklk-1.jpg",
+      "seller_name": "MediaMarkt",
+      "status": "delivered",
+      "cancellable": false,
+      "returnable": true,
+      "returnable_until": "2026-03-22",
+      "is_returnable_category": true
+    },
+    {
+      "item_id": "item-002",
+      "product_name": "JBL Kulaklık Kılıfı",
+      "quantity": 1,
+      "unit_price": 400.00,
+      "image_url": "https://img.pzrmcdn.com/mnresize/1180/1182/asset/193289999999/images/jblwavebeam2uyumluklfmatkancalsilikonsf13-1.jpg",
+      "seller_name": "MediaMarkt",
+      "status": "delivered",
+      "cancellable": false,
+      "returnable": true,
+      "returnable_until": "2026-03-22",
+      "is_returnable_category": true
+    }
+  ]
+}
