@@ -1,0 +1,41 @@
+{
+  "items": [
+    {
+      "id": "item-001",
+      "title": "JBL Tune 520BT Kablosuz Kulaklık",
+      "images": [
+        "https://cdn.pazarama.com/products/jbl-tune-520bt.jpg"
+      ],
+      "actions": [
+        {
+          "label": "Ürünü Seç",
+          "url": null,
+          "value": "item-001"
+        }
+      ],
+      "features": [
+        "899 TL",
+        "Satıcı: MediaMarkt"
+      ]
+    },
+    {
+      "id": "item-002",
+      "title": "JBL Kulaklık Kılıfı",
+      "images": [
+        "https://cdn.pazarama.com/products/jbl-case.jpg"
+      ],
+      "actions": [
+        {
+          "label": "Ürünü Seç",
+          "url": null,
+          "value": "item-002"
+        }
+      ],
+      "features": [
+        "400 TL",
+        "Satıcı: MediaMarkt"
+      ]
+    }
+  ],
+  "image_display": "circles"
+}
