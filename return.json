@@ -1,5 +1,6 @@
 {
   "success": true,
   "return_code": "AAAA-0001",
-  "carrier": "Aras Kargo"
+  "carrier": "Aras Kargo",
+  "estimated_return_time": "7 days"
 }
